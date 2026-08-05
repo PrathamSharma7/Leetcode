@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrathamSharma7/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0007-reverse-integer) |
 ## Depth-First Search
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrathamSharma7/Leetcode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrathamSharma7/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrathamSharma7/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
