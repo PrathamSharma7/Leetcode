@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrathamSharma7/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0013-roman-to-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PrathamSharma7/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrathamSharma7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrathamSharma7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrathamSharma7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PrathamSharma7/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
