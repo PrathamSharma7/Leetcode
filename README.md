@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSharma7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0013-roman-to-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrathamSharma7/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrathamSharma7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathamSharma7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrathamSharma7/Leetcode/tree/master/0027-remove-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrathamSharma7/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrathamSharma7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
