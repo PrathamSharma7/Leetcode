@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrathamSharma7/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0013-roman-to-integer) |
+| [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrathamSharma7/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
@@ -155,4 +156,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PrathamSharma7/Leetcode/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
