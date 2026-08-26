@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PrathamSharma7/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathamSharma7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrathamSharma7/Leetcode/tree/master/0027-remove-element) |
+| [0303-range-sum-query-immutable](https://github.com/PrathamSharma7/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/PrathamSharma7/Leetcode/tree/master/0704-binary-search) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrathamSharma7/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrathamSharma7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrathamSharma7/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrathamSharma7/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
