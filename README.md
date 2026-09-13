@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharma7/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/PrathamSharma7/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrathamSharma7/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/PrathamSharma7/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrathamSharma7/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/PrathamSharma7/Leetcode/tree/master/0338-counting-bits) |
 ## Brainteaser
