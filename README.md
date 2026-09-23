@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PrathamSharma7/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathamSharma7/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrathamSharma7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0504-base-7](https://github.com/PrathamSharma7/Leetcode/tree/master/0504-base-7) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PrathamSharma7/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrathamSharma7/Leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/PrathamSharma7/Leetcode/tree/master/0292-nim-game) |
+| [0504-base-7](https://github.com/PrathamSharma7/Leetcode/tree/master/0504-base-7) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrathamSharma7/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
